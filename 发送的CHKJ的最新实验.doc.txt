@@ -1,0 +1,11 @@
+public class HelloWorld {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		 System.out.println("猴年大吉");// TODO 自动生成的方法存根
+
+	}
+
+}
